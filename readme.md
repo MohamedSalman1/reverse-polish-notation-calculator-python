@@ -13,7 +13,7 @@ Specifications
 4. The calculator exits when it receives a `q`, `quit`, `exit` command
 
 How to run code
-------
+--------------
 
 * Install Python 3 on your PC
 * Clone repository on your local PC

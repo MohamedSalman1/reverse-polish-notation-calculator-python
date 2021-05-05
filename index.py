@@ -48,7 +48,6 @@ class RpnCalculator:
             print(self.invalid_calculation)
             self.get_input()
             return
-
         return self.all_numbers[-1]
 
     def get_input(self):
